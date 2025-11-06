@@ -1,4 +1,4 @@
-💻 Hey, I'm Jørgen 👋
+💻 Hey, I'm Jørgen 🤝
 _____________________________________________________________________
 
 🎓 Data Engineer student 🤖 AI hobbyist 🎥 15K+ YouTube subscribers  
@@ -24,11 +24,12 @@ _____________________________________________________________________
 🎥 A few of my favorite videos
 Some of my personal favorites from the channel, each one represents a different idea or experiment with AI-generated visuals and storytelling.
 
-- [POV: You Wake Up in 2050](https://www.youtube.com/watch?v=XXXXXXXXXXX)  
-- [POV: You Are Becoming Muad'Dib](https://www.youtube.com/watch?v=XXXXXXXXXXX)  
-- [POV: You Are the First Human to Travel Through a Black Hole](https://www.youtube.com/watch?v=XXXXXXXXXXX)  
-- [POV: You Visit the First Space Hotel](https://www.youtube.com/watch?v=XXXXXXXXXXX)
+- [Star Wars - Samurai of the Stars (Crossover Video)]([https://www.youtube.com/watch?v=XXXXXXXXXXX](https://youtu.be/0RfxDpGsPhI?si=WijD9-2NRkUzI3_l))  
+- [Game of Thrones - Sandborn (Crossover Video)]([https://www.youtube.com/watch?v=XXXXXXXXXXX](https://youtu.be/zIiAZKdPKa0?si=esohog6d1oF6e6WW))
+- [A Day with Kratos - I Wasn't Ready for This]([https://www.youtube.com/watch?v=XXXXXXXXXXX](https://youtube.com/shorts/kZrrPrdnjtI?si=_K36Hn1sLInB03kK](https://youtu.be/7voipa00UvY?si=KPEKvRlSIFr1TYC_))
+- [POV: You Are Daenerys Targaryen]([https://www.youtube.com/watch?v=XXXXXXXXXXX](https://youtube.com/shorts/50GYUUblpD8?si=ScmjvhBqmqYkSEjd))  
+- [POV: You Are Frodo]([https://www.youtube.com/watch?v=XXXXXXXXXXX](https://youtube.com/shorts/kZrrPrdnjtI?si=_K36Hn1sLInB03kK))
 
 _____________________________________________________________________
 
-Thanks for stopping by, and have a nice day!
+Thanks for stopping by, and have a nice day! 👋
