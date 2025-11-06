@@ -17,7 +17,8 @@ I use GitHub to share small projects and things I work on in my spare time, most
 
 I also enjoy helping people with technical issues, building websites, and fixing anything tech-related for family and friends.  
 
-As a hobby, I started a YouTube channel that grew to over 15,000 subscribers in six months. What started as a hobby project gained a lot of traction, but my priority right now is finishing my degree.
+As a hobby, I started a YouTube channel that grew to over 15,000 subscribers in six months. 
+What started as a hobby project gained a lot of traction, but my priority right now is finishing my degree.
 
 _____________________________________________________________________
 
@@ -26,9 +27,11 @@ Some of my personal favorites from the channel, each one represents a different 
 
 - [Star Wars - Samurai of the Stars (Crossover Video)]([https://www.youtube.com/watch?v=XXXXXXXXXXX](https://youtu.be/0RfxDpGsPhI?si=WijD9-2NRkUzI3_l)  
 - [Game of Thrones - Sandborn (Crossover Video)]([https://www.youtube.com/watch?v=XXXXXXXXXXX](https://youtu.be/zIiAZKdPKa0?si=esohog6d1oF6e6WW)
-- [A Day with Kratos - I Wasn't Ready for This]([https://www.youtube.com/watch?v=XXXXXXXXXXX](https://youtube.com/shorts/kZrrPrdnjtI?si=_K36Hn1sLInB03kK](https://youtu.be/7voipa00UvY?si=KPEKvRlSIFr1TYC_)
+- [A Day with Kratos - I Wasn't Ready for This](https://youtube.com/shorts/kZrrPrdnjtI?si=_K36Hn1sLInB03kK)
 - [POV: You Are Daenerys Targaryen]([https://www.youtube.com/watch?v=XXXXXXXXXXX](https://youtube.com/shorts/50GYUUblpD8?si=ScmjvhBqmqYkSEjd)  
 - [POV: You Are Frodo]([https://www.youtube.com/watch?v=XXXXXXXXXXX](https://youtube.com/shorts/kZrrPrdnjtI?si=_K36Hn1sLInB03kK)
+
+- https://youtu.be/7voipa00UvY
 
 _____________________________________________________________________
 
