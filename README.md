@@ -5,8 +5,10 @@ _____________________________________________________________________
 
 _____________________________________________________________________
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-POV%20Beyond%20Tomorrow-red?logo=youtube)](https://www.youtube.com/@povbeyondtomorrow)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jørgen%20Fjellstad-blue?logo=linkedin)](https://www.linkedin.com/in/jorgefje/)
 [![Website](https://img.shields.io/badge/Website-fjellstadteknologi.no-blue?logo=google-chrome)](https://www.fjellstadteknologi.no)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-POV%20Beyond%20Tomorrow-red?logo=youtube)](https://www.youtube.com/@povbeyondtomorrow)  
+
 
 _____________________________________________________________________
 
@@ -15,7 +17,7 @@ I use GitHub to share small projects and things I work on in my spare time, most
 
 I also enjoy helping people with technical issues, building websites, and fixing anything tech-related for family and friends.  
 
-As a hobby, I started a YouTube channel that grew to over 15,000 subscribers in six months, it's currently still a hobby but I have taken a break due to studies.
+As a hobby, I started a YouTube channel that grew to over 15,000 subscribers in six months. What started as a hobby project gained a lot of traction, but my priority right now is finishing my degree.
 
 _____________________________________________________________________
 
