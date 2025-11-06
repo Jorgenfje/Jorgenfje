@@ -27,11 +27,9 @@ Some of my personal favorites from the channel, each one represents a different 
 
 - [Star Wars - Samurai of the Stars (Crossover Video)]([https://www.youtube.com/watch?v=XXXXXXXXXXX](https://youtu.be/0RfxDpGsPhI?si=WijD9-2NRkUzI3_l)  
 - [Game of Thrones - Sandborn (Crossover Video)]([https://www.youtube.com/watch?v=XXXXXXXXXXX](https://youtu.be/zIiAZKdPKa0?si=esohog6d1oF6e6WW)
-- [A Day with Kratos - I Wasn't Ready for This](https://youtube.com/shorts/kZrrPrdnjtI?si=_K36Hn1sLInB03kK)
+- [A Day with Kratos - I Wasn't Ready for This](https://youtu.be/7voipa00UvY)
 - [POV: You Are Daenerys Targaryen]([https://www.youtube.com/watch?v=XXXXXXXXXXX](https://youtube.com/shorts/50GYUUblpD8?si=ScmjvhBqmqYkSEjd)  
 - [POV: You Are Frodo]([https://www.youtube.com/watch?v=XXXXXXXXXXX](https://youtube.com/shorts/kZrrPrdnjtI?si=_K36Hn1sLInB03kK)
-
-- https://youtu.be/7voipa00UvY
 
 _____________________________________________________________________
 
